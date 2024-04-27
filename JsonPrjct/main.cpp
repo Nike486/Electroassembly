@@ -5,7 +5,7 @@ int main()
 {
     Electrics electrics("equipment.json");
 
-    electrics.Ñalculation();
+    electrics.Calculation();
 
 	return 0;
 }

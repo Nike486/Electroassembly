@@ -46,5 +46,5 @@ private:
 
 public:
 
-	void Ñalculation();
+	void Calculation();
 };

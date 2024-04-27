@@ -5,14 +5,14 @@
         "Power": 5100.0
     },
     "2": {
-        "Ampere": 16,
-        "Cable Section": 2.5,
-        "Power": 2600.0
+        "Ampere": 32,
+        "Cable Section": 6.0,
+        "Power": 6000.0
     },
     "3": {
         "Ampere": 16,
         "Cable Section": 2.5,
         "Power": 3000.0
     },
-    "___RCD for the group___": 50
+    "___RCD for the group___": 63
 }

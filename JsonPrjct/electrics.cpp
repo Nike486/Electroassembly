@@ -96,7 +96,7 @@ size_t Electrics::getRCD(size_t sumAmpere, size_t equipment—ount)
     return 100;
 }
 
-void Electrics::—alculation()
+void Electrics::Calculation()
 {
     EquipmentList jsonInfo = getJsonInfo();
     size_t sumAmpere = 0;
