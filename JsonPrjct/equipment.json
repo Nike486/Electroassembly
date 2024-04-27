@@ -1,0 +1,19 @@
+{
+    "Mains voltage": 230,
+    "Cable(copper/aluminum)": "copper",
+    "Wiring type(open/close)": "close",
+    "Equipment": [
+        [
+            "1",
+            5100
+        ],
+        [
+            "2",
+            2600
+        ],
+        [
+            "3",
+            3000
+        ]        
+    ]
+}
